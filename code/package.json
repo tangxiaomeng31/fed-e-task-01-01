@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "flow-bin": "^0.125.1",
+    "html-webpack-plugin": "^4.3.0",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.43.0"
   }
 }
